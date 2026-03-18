@@ -1,8 +1,5 @@
 # 💫 About Me:
-👋 Computer Science graduate passionate about solving real-world problems through technology.
-Technical background in AI/ML, full-stack development, and data analysis. Always curious about emerging tech and how great solutions create value.
-Open to connecting and discussing interesting challenges worth tackling.
-
+CS Student
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasry-hamza/) 
